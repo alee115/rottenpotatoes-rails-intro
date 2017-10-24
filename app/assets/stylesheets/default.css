@@ -44,7 +44,7 @@ table#movies th {
   font-weight: bold;
   background-color: wheat;
 }
-table#movies th, table#movies td {
+#movies th, #movies td {
   padding: 4px;
   text-align: left;
 }
@@ -60,6 +60,6 @@ form label {
   color: maroon;
 }
 
-table#movies th.hilite {
+#movies .hilite {
   background-color: yellow;
 }
